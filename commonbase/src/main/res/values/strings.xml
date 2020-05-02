@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">commonBase</string>
+
+
+    <string name="empty_view_text">暂无数据</string>
+    <string name="loading_view_text">加载中...</string>
+    <string name="error_view_text">数据加载错误</string>
+    <string name="net_view_text">网络加载错误</string>
+    <string name="no_net_view_text">当前无网络,请开启网络再试试!</string>
+</resources>

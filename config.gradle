@@ -1,0 +1,20 @@
+ext {
+
+    //support
+    android = [
+            compileSdkVersion: 29,
+            buildToolsVersion: "29.0.3",
+            minSdkVersion    : 19,
+            targetSdkVersion : 29,
+            versionCode      : 1,
+            versionName      : "1.0"
+    ]
+    //rx
+    rxjava_version = '2.2.8'
+    retrofit_version = '2.5.0'
+    rxndroid_version = '2.1.1'
+    //refresh
+    refresh_version = '1.1.2'
+    //glide
+    glide_version = '4.11.0'
+}
